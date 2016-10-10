@@ -58,3 +58,22 @@ Example:
 	}
 
 	@end
+	
+	
+**If** you can customize the **get** and **set** methods. You can change into **.m** file (Implementation file) Like This. 
+
+	//Custom Setter
+	-(void)setLastName:(NSString *)lastName{
+		if (![lastName isEqualToString:@""]) {
+			_lastName = lastName;
+		}
+	}
+
+	//Custom Getter
+	-(NSString *)firstName{
+		if ([_firstName isEqualToString:@"HOLA"]) {
+			return @"nene";
+		} else {
+			return @"nena";
+		}
+	}
