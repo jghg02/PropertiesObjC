@@ -33,9 +33,7 @@
 	
 	NSLog(@"First Name %@",[p1 firstName]);
 	NSLog(@"Second Name %@",[p1 lastName]);
-	
-	
-	
+
 }
 
 
