@@ -44,8 +44,6 @@
 	//Importante
 	//Link- http://stackoverflow.com/questions/5105053/iphone-uilabel-non-breaking-space
 	//U+00A0 / no-break space / Common Separator, space
-	
-	
 }
 
 
