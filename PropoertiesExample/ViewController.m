@@ -18,10 +18,12 @@
 - (void)viewDidLoad {
 	[super viewDidLoad];
 	
+	
 	//Create a Person Object
 	Person *p = [[Person alloc] init];
 	p.firstName = @"Isabella";
 	p.lastName = @"Fermin";
+
     
 	
 	NSLog(@"First Name %@",p.firstName);
