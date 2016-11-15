@@ -24,6 +24,7 @@
 	p.firstName = @"Isabella";
 	p.lastName = @"Fermin";
 
+    
 	
 	NSLog(@"First Name %@",p.firstName);
 	NSLog(@"Last Name %@",p.lastName);
