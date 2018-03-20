@@ -1,7 +1,7 @@
-#Properties
+# Properties
 ______
 
-###Definition 
+### Definition 
 
 This properties are **Public**
 
@@ -18,7 +18,7 @@ This property is **Not Public**
 	}
 	
 ___
-##instantiate object and access to properties
+## instantiate object and access to properties
 
 _First_ I need **Import** the class. 
 
